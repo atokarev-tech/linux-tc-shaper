@@ -3,5 +3,5 @@
 
 ### Установка и запуск:
 ```bash
-bash -c "$(curl -fsSL https://raw.githubusercontent.com/atokarev-tech/linux-tc-shaper/refs/heads/main/tc-shaper.sh)
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/atokarev-tech/linux-tc-shaper/refs/heads/main/tc-shaper.sh)"
 ```
